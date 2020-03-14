@@ -1,17 +1,14 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(void)
-{
-	int fahr, celsius;
-	int lower, upper, step;
-	lower = 0;
-	upper = 300;
-	step = 20;
+int main() {
+    int number = 10;
+    int *pnumber = &number;
 
-	fahr = lower;
-	while (fahr <= upper){
-		celsius = 5 * (fahr - 32) / 9;
-		printf("%d\t%d\n", fahr, celsius);
-		fahr += step;
-	}
+    printf("Value of number variable: %d\n", number);
+    printf("Address of number variable: %p\n\n", &number);
+
+    printf("Value of pointer: %p\n", pnumber);
+    printf("Address of pointer: %p\n", &pnumber);
+    printf("Value of pointer address: %d\n", *pnumber);
+    printf("Address of value of pointer address: %p\n", &(*pnumber));
 }
