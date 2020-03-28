@@ -11,7 +11,7 @@
                 "-g",
                 "-o",
                 "MathApp",
-                "MathApp.c"
+                "*.c"
             ],
             "group": {
                 "kind": "build",
