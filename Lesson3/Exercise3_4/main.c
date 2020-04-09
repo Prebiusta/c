@@ -9,13 +9,6 @@ int main()
 
     int line_length;
 
-    char myString[MAX_LENGTH] = "asdasdasdasdAFSDFaDF# ";
-    char converted[MAX_LENGTH] = "";
-
-    my_to_upper(myString, converted);
-
-    printf("testing %s\n", converted);
-
     while (read_line(line) != 0)
     {
         my_to_upper(line, upper);
