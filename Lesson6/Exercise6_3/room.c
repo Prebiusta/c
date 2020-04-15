@@ -31,7 +31,7 @@ static uint8_t _calculateAverageHumidity(uint8_t totalHumidity, int numberOfMeas
 
 room_t room_create(char *location, uint8_t sqMeter)
 {
-	room_t _newRoom = malloc(sizeof(room_t));
+	room_t _newRoom = malloc(sizeof(room));
 
 	if (_newRoom == NULL)
 	{
@@ -40,8 +40,6 @@ room_t room_create(char *location, uint8_t sqMeter)
 
 	strncpy(_newRoom->_location, location, sizeof(_newRoom->_location) - 1);
 	_newRoom->_squareMeters = sqMeter;
-
-	printf("[Room] Area on create %d m2\n", _newRoom->_squareMeters);
 
 	return _newRoom;
 }
@@ -87,7 +85,6 @@ void room_addHumidity(room_t self, humidity_t humidity)
 
 room_roomHealth_t room_getRoomHealth(room_t self)
 {
-	printf("[Room] Area %d m2\n", self->_squareMeters);
 	// Measure humidity on all sensors connected to the room
 	int _humidityMeasurements = 0;
 	uint8_t _totalHumidity = 0;

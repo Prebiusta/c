@@ -23,16 +23,12 @@ static void _delayMs(int milliseconds)
 
 static void _setupApplication(void)
 {
-	printf("Setup started\n");
-
 	hh = healthHandler_create();
 
 	// Creating living room with 2 temp sensors and 1 humidity sensor
 	room_t livingRoom = room_create("Living Room", 75);
-	printf("_________[Main] 0 Add room area %d m2\n", room_getArea(livingRoom));
 
 	temp_t t0 = temperature_create(0);
-	printf("_________[Main] 1 Add room area %d m2\n", room_getArea(livingRoom));
 
 	temp_t t1 = temperature_create(1);
 	humidity_t h0 = humidity_create(0);
@@ -57,14 +53,12 @@ static void _setupApplication(void)
 
 	// Addling kitchen to Health Handler
 	healthHandler_addRoom(hh, kitchen);
-	printf("Setup completed\n");
 }
 
 static void _runApplication()
 {
 	while (1)
 	{
-		printf("[Main] Inside Loop\n");
 		healthHandler_showBuildingHealth(hh);
 		_delayMs(1000);
 	}
@@ -72,13 +66,7 @@ static void _runApplication()
 
 int main(void)
 {
-	printf("[Main] Before Setup\n");
-
 	_setupApplication();
-
-	printf("[Main] After Setup\n");
-	printf("[Main] Running application ____________________\n\n");
-
 	_runApplication();
 
 	return 0;

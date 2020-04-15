@@ -12,7 +12,7 @@ typedef struct humidity
 
 humidity_t humidity_create(uint8_t portNo)
 {
-	humidity_t _newHumidity = calloc(sizeof(humidity_t), 1);
+	humidity_t _newHumidity = calloc(sizeof(humidity), 1);
 
 	if (_newHumidity == NULL)
 	{
@@ -27,7 +27,6 @@ humidity_t humidity_create(uint8_t portNo)
 
 void humidity_meassure(humidity_t self)
 {
-	printf("[Humidity] Start measure");
 	self->_latestHumidity = humidityDriver_getHumidity();
 }
 

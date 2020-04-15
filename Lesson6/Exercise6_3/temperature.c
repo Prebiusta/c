@@ -20,7 +20,7 @@ static float _calculateTemp(float voltage)
 
 temp_t temperature_create(uint8_t portNo)
 {
-	temp_t _newTemp = malloc(sizeof(temp_t));
+	temp_t _newTemp = malloc(sizeof(temp));
 
 	if (_newTemp == NULL)
 	{

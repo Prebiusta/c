@@ -14,25 +14,18 @@ static void _printRoomHealth(health_handler_t self)
 {
 	for (int i = 0; i < MAX_ROOMS_NO; i++)
 	{
-		printf("[Health Handler] Loop number check %d\n", i);
 		if (self->_rooms[i] != NULL)
 		{
 			room_t room = self->_rooms[i];
-
-			char *location = room_getLocation(room);
-			printf("[Health Handler] Location %s\n", location);
-
-			uint16_t area = room_getArea(room);
-			printf("[Health Handler] Area %d m2\n", area);
-
 			printf("%s: area: %d m2 Health: %s\n", room_getLocation(room), room_getArea(room), room_getRoomHealthText(room_getRoomHealth(room)));
 		}
 	}
+	printf("\n");
 }
 
 health_handler_t healthHandler_create(void)
 {
-	health_handler_t _newHealthHandler = calloc(sizeof(health_handler_t), 1);
+	health_handler_t _newHealthHandler = calloc(sizeof(health_handler), 1);
 
 	if (_newHealthHandler == NULL)
 	{
@@ -50,7 +43,6 @@ void healthHandler_addRoom(health_handler_t self, room_t room)
 		if (self->_rooms[i] == NULL)
 		{
 			self->_rooms[i] = room;
-			printf("[Health Handler] Add room area %d m2\n", room_getArea(room));
 			return;
 		}
 	}
