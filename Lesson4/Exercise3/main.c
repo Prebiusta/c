@@ -3,6 +3,8 @@
 #include <string.h>
 #include "list.h"
 
+int number;
+
 typedef struct Student {
     char firstName[20];
     char lastName[20];

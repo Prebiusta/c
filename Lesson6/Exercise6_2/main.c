@@ -4,17 +4,6 @@
 
 int main()
 {
-
-    // list_t myList = list_create();
-
-    // int myNumber = 1;
-    // list_addItem(myList, &myNumber);
-    // list_addItem(myList, &myNumber);
-    // list_addItem(myList, &myNumber);
-    // list_addItem(myList, &myNumber);
-    // list_addItem(myList, &myNumber);
-    // uint16_t numberOfItems = list_noOfItems(myList);
-    // printf("Number of items: %d\n", numberOfItems);
     student_t david = student_createStudent("David", "Franko", 279949, "Slovakia");
     student_t dorcia = student_createStudent("Dorcia Fiona", "Dinesh", 280145, "India");
     student_t valeriu = student_createStudent("Valeriu", "Rusu", 123123, "Moldova");
@@ -32,18 +21,29 @@ int main()
     studentHandler_addStudent(studentListTwo, angel);
     studentHandler_addStudent(studentListTwo, dorcia);
 
-    printf("_________________________________ Printing student list ONE _________________________________\n");
+    printf("____________________ Printing student list ONE ____________________\n");
     studentHandler_printAllStudentsInfo(studentListOne);
 
-    printf("_________________________________ Printing student list TWO _________________________________\n");
+    printf("____________________ Printing student list TWO ____________________\n");
     studentHandler_printAllStudentsInfo(studentListTwo);
 
-    printf("_________________________________ Search student with ID 123123 _________________________________\n");
+    printf("____________________ Search student with ID 123123 ____________________\n");
     student_t searchStudent = studentHandler_searchStudentById(studentListOne, 123123);
     studentHandler_printStudentInfo(searchStudent);
 
-    printf("_________________________________ Search student with last name Dinesh _________________________________\n");
-    char lastNameSearch[] = "Dinesh";
-    searchStudent = studentHandler_searchStudentByLastName(studentListOne, lastNameSearch);
+    printf("____________________ Search student with last name Franko ____________________\n");
+    searchStudent = studentHandler_searchStudentByLastName(studentListOne, "Franko");
+    studentHandler_printStudentInfo(searchStudent);
+
+    printf("____________________ Search student with last name Dinesh ____________________\n");
+    searchStudent = studentHandler_searchStudentByLastName(studentListOne, "Dinesh");
+    studentHandler_printStudentInfo(searchStudent);
+
+    printf("____________________ Search student with last name Rusu ____________________\n");
+    searchStudent = studentHandler_searchStudentByLastName(studentListOne, "Rusu");
+    studentHandler_printStudentInfo(searchStudent);
+
+    printf("____________________ Search student with last name Khouni ____________________\n");
+    searchStudent = studentHandler_searchStudentByLastName(studentListOne, "Khouni");
     studentHandler_printStudentInfo(searchStudent);
 }

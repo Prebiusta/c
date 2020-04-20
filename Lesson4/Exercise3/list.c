@@ -40,7 +40,7 @@ void *getItem(uint16_t index)
         current = current->next;
     }
 
-    return current->next->data;
+    return current->data;
 };
 
 int noOfItems()

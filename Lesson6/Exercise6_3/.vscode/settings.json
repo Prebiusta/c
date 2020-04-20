@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "tempdriver.h": "c"
+        "tempdriver.h": "c",
+        "healthandler.h": "c"
     }
 }

@@ -16,7 +16,7 @@ int main(){
 
     printf("%p\n", my_strcpy(source, destination));
 
-    char copyChar[] = "David loves Dorcia";
+    char copyChar[] = "David loves Dorcia"; char asp;
 
     printf("Duplicating String: %s\nDuplicate: %s\n", copyChar, my_strdup(copyChar));
     

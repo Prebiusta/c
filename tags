@@ -4,6 +4,377 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADDITION_H	Lesson2/Exercise2/addition.h	3;"	d
+AVERAGE	Assignment 1/Exercise6_3/room.h	/^	,AVERAGE$/;"	e	enum:__anon3
+AVERAGE	Lesson5/Exercise1/room.h	/^    AVERAGE,$/;"	e	enum:__anon7
+AVERAGE	Lesson6/Exercise6_3/room.h	/^	,AVERAGE$/;"	e	enum:__anon6
+BAD	Assignment 1/Exercise6_3/room.h	/^	,BAD$/;"	e	enum:__anon3
+BAD	Lesson5/Exercise1/room.h	/^    BAD,$/;"	e	enum:__anon7
+BAD	Lesson6/Exercise6_3/room.h	/^	,BAD$/;"	e	enum:__anon6
+DISASTER	Assignment 1/Exercise6_3/room.h	/^	,DISASTER$/;"	e	enum:__anon3
+DISASTER	Lesson5/Exercise1/room.h	/^    DISASTER$/;"	e	enum:__anon7
+DISASTER	Lesson6/Exercise6_3/room.h	/^	,DISASTER$/;"	e	enum:__anon6
+GOOD	Assignment 1/Exercise6_3/room.h	/^	,GOOD$/;"	e	enum:__anon3
+GOOD	Lesson5/Exercise1/room.h	/^    GOOD,$/;"	e	enum:__anon7
+GOOD	Lesson6/Exercise6_3/room.h	/^	,GOOD$/;"	e	enum:__anon6
+LIST_EMPTY	Assignment 1/Exercise6_1/list.h	/^  LIST_EMPTY,$/;"	e	enum:__anon2
+LIST_EMPTY	Assignment 1/Exercise6_2/list.h	/^  LIST_EMPTY,$/;"	e	enum:__anon1
+LIST_EMPTY	Lesson6/Exercise6_1/list.h	/^  LIST_EMPTY,$/;"	e	enum:__anon5
+LIST_EMPTY	Lesson6/Exercise6_2/list.h	/^  LIST_EMPTY,$/;"	e	enum:__anon4
+LIST_ERROR	Assignment 1/Exercise6_1/list.h	/^  LIST_ERROR$/;"	e	enum:__anon2
+LIST_ERROR	Assignment 1/Exercise6_2/list.h	/^  LIST_ERROR$/;"	e	enum:__anon1
+LIST_ERROR	Lesson6/Exercise6_1/list.h	/^  LIST_ERROR$/;"	e	enum:__anon5
+LIST_ERROR	Lesson6/Exercise6_2/list.h	/^  LIST_ERROR$/;"	e	enum:__anon4
+LIST_H	Lesson4/Exercise2/list.h	2;"	d
+LIST_H	Lesson4/Exercise3/list.h	2;"	d
+LIST_NOT_FOUND	Assignment 1/Exercise6_1/list.h	/^  LIST_NOT_FOUND,$/;"	e	enum:__anon2
+LIST_NOT_FOUND	Assignment 1/Exercise6_2/list.h	/^  LIST_NOT_FOUND,$/;"	e	enum:__anon1
+LIST_NOT_FOUND	Lesson6/Exercise6_1/list.h	/^  LIST_NOT_FOUND,$/;"	e	enum:__anon5
+LIST_NOT_FOUND	Lesson6/Exercise6_2/list.h	/^  LIST_NOT_FOUND,$/;"	e	enum:__anon4
+LIST_NULL	Assignment 1/Exercise6_1/list.h	/^  LIST_NULL,$/;"	e	enum:__anon2
+LIST_NULL	Assignment 1/Exercise6_2/list.h	/^  LIST_NULL,$/;"	e	enum:__anon1
+LIST_NULL	Lesson6/Exercise6_1/list.h	/^  LIST_NULL,$/;"	e	enum:__anon5
+LIST_NULL	Lesson6/Exercise6_2/list.h	/^  LIST_NULL,$/;"	e	enum:__anon4
+LIST_OK	Assignment 1/Exercise6_1/list.h	/^  LIST_OK,$/;"	e	enum:__anon2
+LIST_OK	Assignment 1/Exercise6_2/list.h	/^  LIST_OK,$/;"	e	enum:__anon1
+LIST_OK	Lesson6/Exercise6_1/list.h	/^  LIST_OK,$/;"	e	enum:__anon5
+LIST_OK	Lesson6/Exercise6_2/list.h	/^  LIST_OK,$/;"	e	enum:__anon4
+MAX_HUMIDITY_SENSORS	Assignment 1/Exercise6_3/room.c	7;"	d	file:
+MAX_HUMIDITY_SENSORS	Lesson6/Exercise6_3/room.c	7;"	d	file:
+MAX_LENGTH	Assignment 1/Exercise3_4/main.c	5;"	d	file:
+MAX_LENGTH	Lesson3/Exercise3_4/main.c	5;"	d	file:
+MAX_ROOMS_NO	Assignment 1/Exercise6_3/healtHandler.c	5;"	d	file:
+MAX_ROOMS_NO	Lesson6/Exercise6_3/healtHandler.c	5;"	d	file:
+MAX_TEMP_SENSORS	Assignment 1/Exercise6_3/room.c	6;"	d	file:
+MAX_TEMP_SENSORS	Lesson6/Exercise6_3/room.c	6;"	d	file:
+MY_STR	Assignment 1/Exercise4_1/myStr.h	2;"	d
+MY_STR	Lesson4/Exercise1/myStr.h	2;"	d
+MY_STR	Lesson4/Exercise4_1/myStr.h	2;"	d
+Node	Lesson4/Exercise2/list.c	/^typedef struct Node$/;"	s	file:
+Node	Lesson4/Exercise3/list.c	/^typedef struct Node$/;"	s	file:
+PERFECT	Assignment 1/Exercise6_3/room.h	/^	PERFECT$/;"	e	enum:__anon3
+PERFECT	Lesson5/Exercise1/room.h	/^    PERFECT,$/;"	e	enum:__anon7
+PERFECT	Lesson6/Exercise6_3/room.h	/^	PERFECT$/;"	e	enum:__anon6
+Student	Lesson4/Exercise2/main.c	/^typedef struct Student {$/;"	s	file:
+Student	Lesson4/Exercise3/main.c	/^typedef struct Student {$/;"	s	file:
+_calculateAverageHumidity	Assignment 1/Exercise6_3/room.c	/^static uint8_t _calculateAverageHumidity(uint8_t totalHumidity, int numberOfMeasurements)$/;"	f	file:
+_calculateAverageHumidity	Lesson6/Exercise6_3/room.c	/^static uint8_t _calculateAverageHumidity(uint8_t totalHumidity, int numberOfMeasurements)$/;"	f	file:
+_calculateAverageTemperature	Assignment 1/Exercise6_3/room.c	/^static float _calculateAverageTemperature(float totalTemp, int numberOfMeasurements)$/;"	f	file:
+_calculateAverageTemperature	Lesson6/Exercise6_3/room.c	/^static float _calculateAverageTemperature(float totalTemp, int numberOfMeasurements)$/;"	f	file:
+_calculateHealth	Assignment 1/Exercise6_3/room.c	/^static room_roomHealth_t _calculateHealth(float temp, uint8_t hum)$/;"	f	file:
+_calculateHealth	Lesson5/Exercise1/room.c	/^static room_roomHealth_t _calculateHealth(float temp, uint8_t humidity){$/;"	f	file:
+_calculateHealth	Lesson6/Exercise6_3/room.c	/^static room_roomHealth_t _calculateHealth(float temp, uint8_t hum)$/;"	f	file:
+_calculateTemp	Assignment 1/Exercise6_3/temperature.c	/^static float _calculateTemp(float voltage)$/;"	f	file:
+_calculateTemp	Lesson5/Exercise1/temperature.c	/^static float _calculateTemp(float voltage){$/;"	f	file:
+_calculateTemp	Lesson6/Exercise6_3/temperature.c	/^static float _calculateTemp(float voltage)$/;"	f	file:
+_delayMs	Assignment 1/Exercise6_3/main.c	/^static void _delayMs(int milliseconds)$/;"	f	file:
+_delayMs	Lesson5/Exercise1/main.c	/^static void _delayMs(int milliseconds){$/;"	f	file:
+_delayMs	Lesson6/Exercise6_3/main.c	/^static void _delayMs(int milliseconds)$/;"	f	file:
+_driverPort	Assignment 1/Exercise6_3/temperature.c	/^	uint8_t _driverPort;$/;"	m	struct:temp	file:
+_driverPort	Lesson5/Exercise1/temperature.c	/^static uint8_t _driverPort;$/;"	v	file:
+_driverPort	Lesson6/Exercise6_3/temperature.c	/^	uint8_t _driverPort;$/;"	m	struct:temp	file:
+_humiditySensors	Assignment 1/Exercise6_3/room.c	/^	humidity_t _humiditySensors[MAX_HUMIDITY_SENSORS];$/;"	m	struct:room	file:
+_humiditySensors	Lesson6/Exercise6_3/room.c	/^	humidity_t _humiditySensors[MAX_HUMIDITY_SENSORS];$/;"	m	struct:room	file:
+_latestHumidity	Assignment 1/Exercise6_3/humidity.c	/^	uint8_t _latestHumidity;$/;"	m	struct:humidity	file:
+_latestHumidity	Lesson5/Exercise1/humidity.c	/^static uint8_t _latestHumidity = 0;$/;"	v	file:
+_latestHumidity	Lesson6/Exercise6_3/humidity.c	/^	uint8_t _latestHumidity;$/;"	m	struct:humidity	file:
+_latestTemp	Assignment 1/Exercise6_3/temperature.c	/^	float _latestTemp;$/;"	m	struct:temp	file:
+_latestTemp	Lesson5/Exercise1/temperature.c	/^static float _latestTemp = 0.0;$/;"	v	file:
+_latestTemp	Lesson6/Exercise6_3/temperature.c	/^	float _latestTemp;$/;"	m	struct:temp	file:
+_location	Assignment 1/Exercise6_3/room.c	/^	char _location[30];$/;"	m	struct:room	file:
+_location	Lesson5/Exercise1/room.c	/^static char _location[30] = { 0 };$/;"	v	file:
+_location	Lesson6/Exercise6_3/room.c	/^	char _location[30];$/;"	m	struct:room	file:
+_printRoomHealth	Assignment 1/Exercise6_3/healtHandler.c	/^static void _printRoomHealth(health_handler_t self)$/;"	f	file:
+_printRoomHealth	Lesson5/Exercise1/healthHandler.c	/^static void _printRoomHealth(void){$/;"	f	file:
+_printRoomHealth	Lesson6/Exercise6_3/healtHandler.c	/^static void _printRoomHealth(health_handler_t self)$/;"	f	file:
+_rooms	Assignment 1/Exercise6_3/healtHandler.c	/^	room_t _rooms[MAX_ROOMS_NO];$/;"	m	struct:health_handler	file:
+_rooms	Lesson6/Exercise6_3/healtHandler.c	/^	room_t _rooms[MAX_ROOMS_NO];$/;"	m	struct:health_handler	file:
+_runApplication	Assignment 1/Exercise6_3/main.c	/^static void _runApplication()$/;"	f	file:
+_runApplication	Lesson5/Exercise1/main.c	/^static void _runApplication(void) {$/;"	f	file:
+_runApplication	Lesson6/Exercise6_3/main.c	/^static void _runApplication()$/;"	f	file:
+_setupApplication	Assignment 1/Exercise6_3/main.c	/^static void _setupApplication(void)$/;"	f	file:
+_setupApplication	Lesson5/Exercise1/main.c	/^static void _setupApplication(void){$/;"	f	file:
+_setupApplication	Lesson6/Exercise6_3/main.c	/^static void _setupApplication(void)$/;"	f	file:
+_squareMeters	Assignment 1/Exercise6_3/room.c	/^	uint8_t _squareMeters;$/;"	m	struct:room	file:
+_squareMeters	Lesson5/Exercise1/room.c	/^static uint16_t _squareMeters;$/;"	v	file:
+_squareMeters	Lesson6/Exercise6_3/room.c	/^	uint8_t _squareMeters;$/;"	m	struct:room	file:
+_tempSensors	Assignment 1/Exercise6_3/room.c	/^	temp_t _tempSensors[MAX_TEMP_SENSORS];$/;"	m	struct:room	file:
+_tempSensors	Lesson6/Exercise6_3/room.c	/^	temp_t _tempSensors[MAX_TEMP_SENSORS];$/;"	m	struct:room	file:
+addItem	Lesson4/Exercise2/list.c	/^int addItem(void *item)$/;"	f
+addItem	Lesson4/Exercise3/list.c	/^int addItem(void *item)$/;"	f
+brand	Lesson5/Exercise2/car.c	/^    char brand[30];$/;"	m	struct:car	file:
+car	Lesson5/Exercise2/car.c	/^typedef struct car$/;"	s	file:
+car	Lesson5/Exercise2/car.c	/^} car;$/;"	t	typeref:struct:car	file:
+car_create	Lesson5/Exercise2/car.c	/^car_t car_create(int hp, char *brand, char *model)$/;"	f
+car_destroy	Lesson5/Exercise2/car.c	/^void car_destroy(car_t self)$/;"	f
+car_getBrand	Lesson5/Exercise2/car.c	/^char *car_getBrand(car_t self)$/;"	f
+car_getHp	Lesson5/Exercise2/car.c	/^int car_getHp(car_t self)$/;"	f
+car_getModel	Lesson5/Exercise2/car.c	/^char *car_getModel(car_t self)$/;"	f
+car_isStarted	Lesson5/Exercise2/car.c	/^bool car_isStarted(car_t self)$/;"	f
+car_start	Lesson5/Exercise2/car.c	/^void car_start(car_t self)$/;"	f
+car_stop	Lesson5/Exercise2/car.c	/^void car_stop(car_t self)$/;"	f
+car_t	Lesson5/Exercise2/car.h	/^typedef struct car *car_t;$/;"	t	typeref:struct:car
+car_tune	Lesson5/Exercise2/car.c	/^void car_tune(car_t self, int newHp)$/;"	f
+data	Assignment 1/Exercise6_1/list.c	/^  void *data;$/;"	m	struct:list	file:
+data	Assignment 1/Exercise6_2/list.c	/^  void *data;$/;"	m	struct:list	file:
+data	Lesson4/Exercise2/list.c	/^    void *data;$/;"	m	struct:Node	file:
+data	Lesson4/Exercise3/list.c	/^    void *data;$/;"	m	struct:Node	file:
+data	Lesson6/Exercise6_1/list.c	/^  void *data;$/;"	m	struct:list	file:
+data	Lesson6/Exercise6_2/list.c	/^  void *data;$/;"	m	struct:list	file:
+esw_add	Assignment 1/Exercise2_1/addition.c	/^int esw_add (int a, int b)$/;"	f
+esw_add	Lesson2/Exercise2/addition.c	/^int esw_add(int a, int b){$/;"	f
+esw_add	Lesson2/Exercise2_1/addition.c	/^int esw_add (int a, int b)$/;"	f
+esw_multiply	Assignment 1/Exercise2_1/multiplication.c	/^int esw_multiply (int a, int b)$/;"	f
+esw_multiply	Lesson2/Exercise2_1/multiplication.c	/^int esw_multiply (int a, int b)$/;"	f
+esw_subtract	Assignment 1/Exercise2_1/subtraction.c	/^int esw_subtract (int a, int b){$/;"	f
+esw_subtract	Lesson2/Exercise2_1/subtraction.c	/^int esw_subtract (int a, int b){$/;"	f
+firstName	Assignment 1/Exercise6_2/student.c	/^  char *firstName;$/;"	m	struct:student	file:
+firstName	Lesson4/Exercise2/main.c	/^    char firstName[20];$/;"	m	struct:Student	file:
+firstName	Lesson4/Exercise3/main.c	/^    char firstName[20];$/;"	m	struct:Student	file:
+firstName	Lesson6/Exercise6_2/student.c	/^  char *firstName;$/;"	m	struct:student	file:
+getByLastName	Lesson4/Exercise3/main.c	/^void *getByLastName(char lastName){$/;"	f
+getByStudentId	Lesson4/Exercise3/main.c	/^void *getByStudentId(int studentId){$/;"	f
+getItem	Lesson4/Exercise2/list.c	/^void *getItem(uint16_t index)$/;"	f
+getItem	Lesson4/Exercise3/list.c	/^void *getItem(uint16_t index)$/;"	f
+head	Lesson4/Exercise2/list.c	/^node_t *head = NULL;$/;"	v
+head	Lesson4/Exercise3/list.c	/^node_t *head = NULL;$/;"	v
+healthHandler_addRoom	Assignment 1/Exercise6_3/healtHandler.c	/^void healthHandler_addRoom(health_handler_t self, room_t room)$/;"	f
+healthHandler_addRoom	Lesson6/Exercise6_3/healtHandler.c	/^void healthHandler_addRoom(health_handler_t self, room_t room)$/;"	f
+healthHandler_create	Assignment 1/Exercise6_3/healtHandler.c	/^health_handler_t healthHandler_create(void)$/;"	f
+healthHandler_create	Lesson5/Exercise1/healthHandler.c	/^void healthHandler_create(void){$/;"	f
+healthHandler_create	Lesson6/Exercise6_3/healtHandler.c	/^health_handler_t healthHandler_create(void)$/;"	f
+healthHandler_showBuildingHealth	Assignment 1/Exercise6_3/healtHandler.c	/^void healthHandler_showBuildingHealth(health_handler_t self)$/;"	f
+healthHandler_showBuildingHealth	Lesson5/Exercise1/healthHandler.c	/^void healthHandler_showBuildingHealth(void){$/;"	f
+healthHandler_showBuildingHealth	Lesson6/Exercise6_3/healtHandler.c	/^void healthHandler_showBuildingHealth(health_handler_t self)$/;"	f
+health_handler	Assignment 1/Exercise6_3/healtHandler.c	/^typedef struct health_handler$/;"	s	file:
+health_handler	Assignment 1/Exercise6_3/healtHandler.c	/^} health_handler;$/;"	t	typeref:struct:health_handler	file:
+health_handler	Lesson6/Exercise6_3/healtHandler.c	/^typedef struct health_handler$/;"	s	file:
+health_handler	Lesson6/Exercise6_3/healtHandler.c	/^} health_handler;$/;"	t	typeref:struct:health_handler	file:
+health_handler_t	Assignment 1/Exercise6_3/healtHandler.h	/^typedef struct health_handler * health_handler_t;$/;"	t	typeref:struct:health_handler
+health_handler_t	Lesson6/Exercise6_3/healtHandler.h	/^typedef struct health_handler * health_handler_t;$/;"	t	typeref:struct:health_handler
+hh	Assignment 1/Exercise6_3/main.c	/^static health_handler_t hh;$/;"	v	file:
+hh	Lesson6/Exercise6_3/main.c	/^static health_handler_t hh;$/;"	v	file:
+hp	Lesson5/Exercise2/car.c	/^    int hp;$/;"	m	struct:car	file:
+humidity	Assignment 1/Exercise6_3/humidity.c	/^typedef struct humidity$/;"	s	file:
+humidity	Assignment 1/Exercise6_3/humidity.c	/^} humidity;$/;"	t	typeref:struct:humidity	file:
+humidity	Lesson6/Exercise6_3/humidity.c	/^typedef struct humidity$/;"	s	file:
+humidity	Lesson6/Exercise6_3/humidity.c	/^} humidity;$/;"	t	typeref:struct:humidity	file:
+humidityDriver_getHumidity	Assignment 1/Exercise6_3/humidityDriver.c	/^uint8_t humidityDriver_getHumidity() {$/;"	f
+humidityDriver_getHumidity	Lesson6/Exercise6_3/humidityDriver.c	/^uint8_t humidityDriver_getHumidity() {$/;"	f
+humidityDriver_initDriver	Assignment 1/Exercise6_3/humidityDriver.c	/^void humidityDriver_initDriver() {$/;"	f
+humidityDriver_initDriver	Lesson6/Exercise6_3/humidityDriver.c	/^void humidityDriver_initDriver() {$/;"	f
+humidity_create	Assignment 1/Exercise6_3/humidity.c	/^humidity_t humidity_create(uint8_t portNo)$/;"	f
+humidity_create	Lesson5/Exercise1/humidity.c	/^void humidity_create(void){$/;"	f
+humidity_create	Lesson6/Exercise6_3/humidity.c	/^humidity_t humidity_create(uint8_t portNo)$/;"	f
+humidity_getHumidity	Assignment 1/Exercise6_3/humidity.c	/^uint8_t humidity_getHumidity(humidity_t self)$/;"	f
+humidity_getHumidity	Lesson5/Exercise1/humidity.c	/^uint8_t humidity_getHumidity(void){$/;"	f
+humidity_getHumidity	Lesson6/Exercise6_3/humidity.c	/^uint8_t humidity_getHumidity(humidity_t self)$/;"	f
+humidity_meassure	Assignment 1/Exercise6_3/humidity.c	/^void humidity_meassure(humidity_t self)$/;"	f
+humidity_meassure	Lesson6/Exercise6_3/humidity.c	/^void humidity_meassure(humidity_t self)$/;"	f
+humidity_measure	Lesson5/Exercise1/humidity.c	/^void humidity_measure(void){$/;"	f
+humidity_t	Assignment 1/Exercise6_3/humidity.h	/^typedef struct humidity * humidity_t;$/;"	t	typeref:struct:humidity
+humidity_t	Lesson6/Exercise6_3/humidity.h	/^typedef struct humidity * humidity_t;$/;"	t	typeref:struct:humidity
+isStarted	Lesson5/Exercise2/car.c	/^    bool isStarted;$/;"	m	struct:car	file:
+lastName	Assignment 1/Exercise6_2/student.c	/^  char *lastName;$/;"	m	struct:student	file:
+lastName	Lesson4/Exercise2/main.c	/^    char lastName[20];$/;"	m	struct:Student	file:
+lastName	Lesson4/Exercise3/main.c	/^    char lastName[20];$/;"	m	struct:Student	file:
+lastName	Lesson6/Exercise6_2/student.c	/^  char *lastName;$/;"	m	struct:student	file:
+list	Assignment 1/Exercise6_1/list.c	/^typedef struct list$/;"	s	file:
+list	Assignment 1/Exercise6_1/list.c	/^} list;$/;"	t	typeref:struct:list	file:
+list	Assignment 1/Exercise6_2/list.c	/^typedef struct list$/;"	s	file:
+list	Assignment 1/Exercise6_2/list.c	/^} list;$/;"	t	typeref:struct:list	file:
+list	Lesson6/Exercise6_1/list.c	/^typedef struct list$/;"	s	file:
+list	Lesson6/Exercise6_1/list.c	/^} list;$/;"	t	typeref:struct:list	file:
+list	Lesson6/Exercise6_2/list.c	/^typedef struct list$/;"	s	file:
+list	Lesson6/Exercise6_2/list.c	/^} list;$/;"	t	typeref:struct:list	file:
+list_ReturnCode_t	Assignment 1/Exercise6_1/list.h	/^} list_ReturnCode_t;$/;"	t	typeref:enum:__anon2
+list_ReturnCode_t	Assignment 1/Exercise6_2/list.h	/^} list_ReturnCode_t;$/;"	t	typeref:enum:__anon1
+list_ReturnCode_t	Lesson6/Exercise6_1/list.h	/^} list_ReturnCode_t;$/;"	t	typeref:enum:__anon5
+list_ReturnCode_t	Lesson6/Exercise6_2/list.h	/^} list_ReturnCode_t;$/;"	t	typeref:enum:__anon4
+list_addItem	Assignment 1/Exercise6_1/list.c	/^list_ReturnCode_t list_addItem(list_t self, void *item)$/;"	f
+list_addItem	Assignment 1/Exercise6_2/list.c	/^list_ReturnCode_t list_addItem(list_t self, void *item)$/;"	f
+list_addItem	Lesson6/Exercise6_1/list.c	/^list_ReturnCode_t list_addItem(list_t self, void *item)$/;"	f
+list_addItem	Lesson6/Exercise6_2/list.c	/^list_ReturnCode_t list_addItem(list_t self, void *item)$/;"	f
+list_create	Assignment 1/Exercise6_1/list.c	/^list_t list_create(void)$/;"	f
+list_create	Assignment 1/Exercise6_2/list.c	/^list_t list_create(void)$/;"	f
+list_create	Lesson6/Exercise6_1/list.c	/^list_t list_create(void)$/;"	f
+list_create	Lesson6/Exercise6_2/list.c	/^list_t list_create(void)$/;"	f
+list_getItem	Assignment 1/Exercise6_1/list.c	/^list_ReturnCode_t list_getItem(list_t self, void **item, uint16_t index)$/;"	f
+list_getItem	Assignment 1/Exercise6_2/list.c	/^list_ReturnCode_t list_getItem(list_t self, void **item, uint16_t index)$/;"	f
+list_getItem	Lesson6/Exercise6_1/list.c	/^list_ReturnCode_t list_getItem(list_t self, void **item, uint16_t index)$/;"	f
+list_getItem	Lesson6/Exercise6_2/list.c	/^list_ReturnCode_t list_getItem(list_t self, void **item, uint16_t index)$/;"	f
+list_noOfItems	Assignment 1/Exercise6_1/list.c	/^uint16_t list_noOfItems(list_t self)$/;"	f
+list_noOfItems	Assignment 1/Exercise6_2/list.c	/^uint16_t list_noOfItems(list_t self)$/;"	f
+list_noOfItems	Lesson6/Exercise6_1/list.c	/^uint16_t list_noOfItems(list_t self)$/;"	f
+list_noOfItems	Lesson6/Exercise6_2/list.c	/^uint16_t list_noOfItems(list_t self)$/;"	f
+list_removeItem	Assignment 1/Exercise6_1/list.c	/^list_ReturnCode_t list_removeItem(list_t self, void *item)$/;"	f
+list_removeItem	Assignment 1/Exercise6_2/list.c	/^list_ReturnCode_t list_removeItem(list_t self, void *item)$/;"	f
+list_removeItem	Lesson6/Exercise6_1/list.c	/^list_ReturnCode_t list_removeItem(list_t self, void *item)$/;"	f
+list_removeItem	Lesson6/Exercise6_2/list.c	/^list_ReturnCode_t list_removeItem(list_t self, void *item)$/;"	f
+list_t	Assignment 1/Exercise6_1/list.h	/^typedef struct list* list_t;$/;"	t	typeref:struct:list
+list_t	Assignment 1/Exercise6_2/list.h	/^typedef struct list *list_t;$/;"	t	typeref:struct:list
+list_t	Lesson6/Exercise6_1/list.h	/^typedef struct list* list_t;$/;"	t	typeref:struct:list
+list_t	Lesson6/Exercise6_2/list.h	/^typedef struct list *list_t;$/;"	t	typeref:struct:list
+main	Assignment 1/Exercise2_1/main.c	/^int main (void) {$/;"	f
+main	Assignment 1/Exercise3_4/main.c	/^int main()$/;"	f
+main	Assignment 1/Exercise4_1/Main.c	/^int main(){$/;"	f
+main	Assignment 1/Exercise6_1/main.c	/^int main()$/;"	f
+main	Assignment 1/Exercise6_2/main.c	/^int main()$/;"	f
+main	Assignment 1/Exercise6_3/main.c	/^int main(void)$/;"	f
 main	Lesson2/Exercise1/f_to_c.c	/^int main(void)$/;"	f
 main	Lesson2/Exercise2/MathApp.c	/^int main()$/;"	f
-main	SampleProgram/sampleProgram.c	/^int main(void)$/;"	f
+main	Lesson2/Exercise2_1/main.c	/^int main (void) {$/;"	f
+main	Lesson3/Exercise1/Main.c	/^void main(){$/;"	f
+main	Lesson3/Exercise3_4/main.c	/^int main()$/;"	f
+main	Lesson4/Exercise1/Main.c	/^int main(){$/;"	f
+main	Lesson4/Exercise2/main.c	/^void main()$/;"	f
+main	Lesson4/Exercise3/main.c	/^int main() {$/;"	f
+main	Lesson4/Exercise4_1/Main.c	/^int main(){$/;"	f
+main	Lesson5/Exercise1/main.c	/^int main(void){$/;"	f
+main	Lesson5/Exercise2/main.c	/^void main()$/;"	f
+main	Lesson6/Exercise6_1/main.c	/^int main()$/;"	f
+main	Lesson6/Exercise6_2/main.c	/^int main()$/;"	f
+main	Lesson6/Exercise6_3/main.c	/^int main(void)$/;"	f
+main	SampleProgram/sampleProgram.c	/^int main() {$/;"	f
+model	Lesson5/Exercise2/car.c	/^    char model[30];$/;"	m	struct:car	file:
+my_length	Assignment 1/Exercise3_4/my_string_func.c	/^int my_length(char *str){$/;"	f
+my_length	Lesson3/Exercise3_4/my_string_func.c	/^int my_length(char *str){$/;"	f
+my_strcmp	Assignment 1/Exercise4_1/myStrImpl.c	/^int my_strcmp(const char* str1, const char* str2){$/;"	f
+my_strcmp	Lesson4/Exercise1/myStrImpl.c	/^int my_strcmp(const char* str1, const char* str2){$/;"	f
+my_strcmp	Lesson4/Exercise4_1/myStrImpl.c	/^int my_strcmp(const char* str1, const char* str2){$/;"	f
+my_strcpy	Assignment 1/Exercise4_1/myStrImpl.c	/^char* my_strcpy(char* dest, const char* src){$/;"	f
+my_strcpy	Lesson4/Exercise1/myStrImpl.c	/^char* my_strcpy(char* dest, const char* src){$/;"	f
+my_strcpy	Lesson4/Exercise4_1/myStrImpl.c	/^char* my_strcpy(char* dest, const char* src){$/;"	f
+my_strdup	Assignment 1/Exercise4_1/myStrImpl.c	/^char* my_strdup(const char* str){$/;"	f
+my_strdup	Lesson4/Exercise1/myStrImpl.c	/^char* my_strdup(const char* str){$/;"	f
+my_strdup	Lesson4/Exercise4_1/myStrImpl.c	/^char* my_strdup(const char* str){$/;"	f
+my_strlen	Assignment 1/Exercise4_1/myStrImpl.c	/^int my_strlen(const char* str){$/;"	f
+my_strlen	Lesson4/Exercise1/myStrImpl.c	/^int my_strlen(const char* str){$/;"	f
+my_strlen	Lesson4/Exercise4_1/myStrImpl.c	/^int my_strlen(const char* str){$/;"	f
+my_to_upper	Assignment 1/Exercise3_4/my_string_func.c	/^void my_to_upper(char *str_in, char *str_out)$/;"	f
+my_to_upper	Lesson3/Exercise3_4/my_string_func.c	/^void my_to_upper(char *str_in, char *str_out)$/;"	f
+nationality	Assignment 1/Exercise6_2/student.c	/^  char *nationality;$/;"	m	struct:student	file:
+nationality	Lesson4/Exercise2/main.c	/^    char nationality[20];$/;"	m	struct:Student	file:
+nationality	Lesson4/Exercise3/main.c	/^    char nationality[20];$/;"	m	struct:Student	file:
+nationality	Lesson6/Exercise6_2/student.c	/^  char *nationality;$/;"	m	struct:student	file:
+next	Assignment 1/Exercise6_1/list.c	/^  list_t next;$/;"	m	struct:list	file:
+next	Assignment 1/Exercise6_2/list.c	/^  struct list *next;$/;"	m	struct:list	typeref:struct:list::list	file:
+next	Lesson4/Exercise2/list.c	/^    struct Node *next;$/;"	m	struct:Node	typeref:struct:Node::Node	file:
+next	Lesson4/Exercise3/list.c	/^    struct Node *next;$/;"	m	struct:Node	typeref:struct:Node::Node	file:
+next	Lesson6/Exercise6_1/list.c	/^  list_t next;$/;"	m	struct:list	file:
+next	Lesson6/Exercise6_2/list.c	/^  struct list *next;$/;"	m	struct:list	typeref:struct:list::list	file:
+noOfItems	Lesson4/Exercise2/list.c	/^int noOfItems()$/;"	f
+noOfItems	Lesson4/Exercise3/list.c	/^int noOfItems()$/;"	f
+node_t	Lesson4/Exercise2/list.c	/^} node_t;$/;"	t	typeref:struct:Node	file:
+node_t	Lesson4/Exercise3/list.c	/^} node_t;$/;"	t	typeref:struct:Node	file:
+number	Lesson4/Exercise3/main.c	/^int number;$/;"	v
+portNo	Assignment 1/Exercise6_3/humidity.c	/^	uint8_t portNo;$/;"	m	struct:humidity	file:
+portNo	Lesson6/Exercise6_3/humidity.c	/^	uint8_t portNo;$/;"	m	struct:humidity	file:
+printAddresses	Lesson4/Exercise2/list.c	/^void printAddresses(void *n)$/;"	f
+printAddressesAndChars	Lesson4/Exercise2/list.c	/^void printAddressesAndChars(void *n)$/;"	f
+printAddressesAndInts	Lesson4/Exercise2/list.c	/^void printAddressesAndInts()$/;"	f
+printChar	Lesson4/Exercise2/list.c	/^void printChar(void *n)$/;"	f
+printInt	Lesson4/Exercise2/list.c	/^void printInt(void *n)$/;"	f
+printStudentInfo	Lesson4/Exercise2/main.c	/^void printStudentInfo(student_t *data){$/;"	f
+printStudentInfo	Lesson4/Exercise3/main.c	/^void printStudentInfo(student_t *data){$/;"	f
+print_list	Lesson4/Exercise2/list.c	/^void print_list(void (*fptr)(void *))$/;"	f
+read_line	Assignment 1/Exercise3_4/my_string_func.c	/^int read_line(char s[])$/;"	f
+read_line	Lesson3/Exercise3_4/my_string_func.c	/^int read_line(char s[])$/;"	f
+removeItem	Lesson4/Exercise2/list.c	/^int removeItem(void *item)$/;"	f
+removeItem	Lesson4/Exercise3/list.c	/^int removeItem(void *item)$/;"	f
+room	Assignment 1/Exercise6_3/room.c	/^typedef struct room$/;"	s	file:
+room	Assignment 1/Exercise6_3/room.c	/^} room;$/;"	t	typeref:struct:room	file:
+room	Lesson6/Exercise6_3/room.c	/^typedef struct room$/;"	s	file:
+room	Lesson6/Exercise6_3/room.c	/^} room;$/;"	t	typeref:struct:room	file:
+room_addHumidity	Assignment 1/Exercise6_3/room.c	/^void room_addHumidity(room_t self, humidity_t humidity)$/;"	f
+room_addHumidity	Lesson6/Exercise6_3/room.c	/^void room_addHumidity(room_t self, humidity_t humidity)$/;"	f
+room_addTemperature	Assignment 1/Exercise6_3/room.c	/^void room_addTemperature(room_t self, temp_t temperature)$/;"	f
+room_addTemperature	Lesson6/Exercise6_3/room.c	/^void room_addTemperature(room_t self, temp_t temperature)$/;"	f
+room_create	Assignment 1/Exercise6_3/room.c	/^room_t room_create(char *location, uint8_t sqMeter)$/;"	f
+room_create	Lesson5/Exercise1/room.c	/^void room_create(char* location, uint16_t sqMeter) {$/;"	f
+room_create	Lesson6/Exercise6_3/room.c	/^room_t room_create(char *location, uint8_t sqMeter)$/;"	f
+room_destroy	Assignment 1/Exercise6_3/room.c	/^void room_destroy(room_t self)$/;"	f
+room_destroy	Lesson6/Exercise6_3/room.c	/^void room_destroy(room_t self)$/;"	f
+room_getArea	Assignment 1/Exercise6_3/room.c	/^uint8_t room_getArea(room_t self)$/;"	f
+room_getArea	Lesson5/Exercise1/room.c	/^uint16_t room_getArea(void){$/;"	f
+room_getArea	Lesson6/Exercise6_3/room.c	/^uint8_t room_getArea(room_t self)$/;"	f
+room_getLocation	Assignment 1/Exercise6_3/room.c	/^char *room_getLocation(room_t self)$/;"	f
+room_getLocation	Lesson5/Exercise1/room.c	/^char* room_getLocation(void){$/;"	f
+room_getLocation	Lesson6/Exercise6_3/room.c	/^char *room_getLocation(room_t self)$/;"	f
+room_getRoomHealth	Assignment 1/Exercise6_3/room.c	/^room_roomHealth_t room_getRoomHealth(room_t self)$/;"	f
+room_getRoomHealth	Lesson5/Exercise1/room.c	/^room_roomHealth_t room_getRoomHealth(void) {$/;"	f
+room_getRoomHealth	Lesson6/Exercise6_3/room.c	/^room_roomHealth_t room_getRoomHealth(room_t self)$/;"	f
+room_getRoomHealthText	Assignment 1/Exercise6_3/room.c	/^char *room_getRoomHealthText(room_roomHealth_t health)$/;"	f
+room_getRoomHealthText	Lesson5/Exercise1/room.c	/^char* room_getRoomHealthText(room_roomHealth_t health){$/;"	f
+room_getRoomHealthText	Lesson6/Exercise6_3/room.c	/^char *room_getRoomHealthText(room_roomHealth_t health)$/;"	f
+room_roomHealth_t	Assignment 1/Exercise6_3/room.h	/^}room_roomHealth_t;$/;"	t	typeref:enum:__anon3
+room_roomHealth_t	Lesson5/Exercise1/room.h	/^} room_roomHealth_t; $/;"	t	typeref:enum:__anon7
+room_roomHealth_t	Lesson6/Exercise6_3/room.h	/^}room_roomHealth_t;$/;"	t	typeref:enum:__anon6
+room_t	Assignment 1/Exercise6_3/room.h	/^typedef struct room * room_t;$/;"	t	typeref:struct:room
+room_t	Lesson6/Exercise6_3/room.h	/^typedef struct room * room_t;$/;"	t	typeref:struct:room
+student	Assignment 1/Exercise6_2/student.c	/^typedef struct student$/;"	s	file:
+student	Assignment 1/Exercise6_2/student.c	/^} student;$/;"	t	typeref:struct:student	file:
+student	Lesson6/Exercise6_2/student.c	/^typedef struct student$/;"	s	file:
+student	Lesson6/Exercise6_2/student.c	/^} student;$/;"	t	typeref:struct:student	file:
+studentHandler_addStudent	Assignment 1/Exercise6_2/studentHandler.c	/^void studentHandler_addStudent(list_t studentList, student_t student)$/;"	f
+studentHandler_addStudent	Lesson6/Exercise6_2/studentHandler.c	/^void studentHandler_addStudent(list_t studentList, student_t student)$/;"	f
+studentHandler_create	Assignment 1/Exercise6_2/studentHandler.c	/^list_t studentHandler_create(void)$/;"	f
+studentHandler_create	Lesson6/Exercise6_2/studentHandler.c	/^list_t studentHandler_create(void)$/;"	f
+studentHandler_printAllStudentsInfo	Assignment 1/Exercise6_2/studentHandler.c	/^void studentHandler_printAllStudentsInfo(list_t studentList)$/;"	f
+studentHandler_printAllStudentsInfo	Lesson6/Exercise6_2/studentHandler.c	/^void studentHandler_printAllStudentsInfo(list_t studentList)$/;"	f
+studentHandler_printStudentInfo	Assignment 1/Exercise6_2/studentHandler.c	/^void studentHandler_printStudentInfo(student_t student)$/;"	f
+studentHandler_printStudentInfo	Lesson6/Exercise6_2/studentHandler.c	/^void studentHandler_printStudentInfo(student_t student)$/;"	f
+studentHandler_searchStudentById	Assignment 1/Exercise6_2/studentHandler.c	/^student_t studentHandler_searchStudentById(list_t studentList, int studentId)$/;"	f
+studentHandler_searchStudentById	Lesson6/Exercise6_2/studentHandler.c	/^student_t studentHandler_searchStudentById(list_t studentList, int studentId)$/;"	f
+studentHandler_searchStudentByLastName	Assignment 1/Exercise6_2/studentHandler.c	/^student_t studentHandler_searchStudentByLastName(list_t studentList, char *lastName)$/;"	f
+studentHandler_searchStudentByLastName	Lesson6/Exercise6_2/studentHandler.c	/^student_t studentHandler_searchStudentByLastName(list_t studentList, char *lastName)$/;"	f
+studentId	Assignment 1/Exercise6_2/student.c	/^  int studentId;$/;"	m	struct:student	file:
+studentId	Lesson4/Exercise2/main.c	/^    int studentId;$/;"	m	struct:Student	file:
+studentId	Lesson4/Exercise3/main.c	/^    int studentId;$/;"	m	struct:Student	file:
+studentId	Lesson6/Exercise6_2/student.c	/^  int studentId;$/;"	m	struct:student	file:
+studentList_addStudent	Assignment 1/Exercise6_2/studentList.c	/^list_ReturnCode_t studentList_addStudent(list_t studentList, student_t student)$/;"	f
+studentList_addStudent	Lesson6/Exercise6_2/studentList.c	/^list_ReturnCode_t studentList_addStudent(list_t studentList, student_t student)$/;"	f
+studentList_create	Assignment 1/Exercise6_2/studentList.c	/^list_t studentList_create(void)$/;"	f
+studentList_create	Lesson6/Exercise6_2/studentList.c	/^list_t studentList_create(void)$/;"	f
+studentList_getStudent	Assignment 1/Exercise6_2/studentList.c	/^list_ReturnCode_t studentList_getStudent(list_t studentList, student_t *student, uint16_t index)$/;"	f
+studentList_getStudent	Lesson6/Exercise6_2/studentList.c	/^list_ReturnCode_t studentList_getStudent(list_t studentList, student_t *student, uint16_t index)$/;"	f
+studentList_noOfStudents	Assignment 1/Exercise6_2/studentList.c	/^uint16_t studentList_noOfStudents(list_t studentList)$/;"	f
+studentList_noOfStudents	Lesson6/Exercise6_2/studentList.c	/^uint16_t studentList_noOfStudents(list_t studentList)$/;"	f
+studentList_removeStudent	Assignment 1/Exercise6_2/studentList.c	/^list_ReturnCode_t studentList_removeStudent(list_t studentList, student_t student)$/;"	f
+studentList_removeStudent	Lesson6/Exercise6_2/studentList.c	/^list_ReturnCode_t studentList_removeStudent(list_t studentList, student_t student)$/;"	f
+student_createStudent	Assignment 1/Exercise6_2/student.c	/^student_t student_createStudent(char *firstName, char *lastName, int studentId, char *nationality)$/;"	f
+student_createStudent	Lesson6/Exercise6_2/student.c	/^student_t student_createStudent(char *firstName, char *lastName, int studentId, char *nationality)$/;"	f
+student_getStudentId	Assignment 1/Exercise6_2/student.c	/^int student_getStudentId(student_t student)$/;"	f
+student_getStudentId	Lesson6/Exercise6_2/student.c	/^int student_getStudentId(student_t student)$/;"	f
+student_getStudentLastName	Assignment 1/Exercise6_2/student.c	/^char *student_getStudentLastName(student_t student)$/;"	f
+student_getStudentLastName	Lesson6/Exercise6_2/student.c	/^char *student_getStudentLastName(student_t student)$/;"	f
+student_printInfo	Assignment 1/Exercise6_2/student.c	/^void student_printInfo(student_t self)$/;"	f
+student_printInfo	Lesson6/Exercise6_2/student.c	/^void student_printInfo(student_t self)$/;"	f
+student_t	Assignment 1/Exercise6_2/student.h	/^typedef struct student *student_t;$/;"	t	typeref:struct:student
+student_t	Lesson4/Exercise2/main.c	/^} student_t;$/;"	t	typeref:struct:Student	file:
+student_t	Lesson4/Exercise3/main.c	/^} student_t;$/;"	t	typeref:struct:Student	file:
+student_t	Lesson6/Exercise6_2/student.h	/^typedef struct student *student_t;$/;"	t	typeref:struct:student
+temp	Assignment 1/Exercise6_3/temperature.c	/^typedef struct temp$/;"	s	file:
+temp	Assignment 1/Exercise6_3/temperature.c	/^} temp;$/;"	t	typeref:struct:temp	file:
+temp	Lesson6/Exercise6_3/temperature.c	/^typedef struct temp$/;"	s	file:
+temp	Lesson6/Exercise6_3/temperature.c	/^} temp;$/;"	t	typeref:struct:temp	file:
+temp_t	Assignment 1/Exercise6_3/temperature.h	/^typedef struct temp * temp_t;$/;"	t	typeref:struct:temp
+temp_t	Lesson6/Exercise6_3/temperature.h	/^typedef struct temp * temp_t;$/;"	t	typeref:struct:temp
+temperatureDriver_getVoltage	Assignment 1/Exercise6_3/tempDriver.c	/^float temperatureDriver_getVoltage() {$/;"	f
+temperatureDriver_getVoltage	Lesson6/Exercise6_3/tempDriver.c	/^float temperatureDriver_getVoltage() {$/;"	f
+temperatureDriver_initDriver	Assignment 1/Exercise6_3/tempDriver.c	/^void temperatureDriver_initDriver(uint8_t port) {$/;"	f
+temperatureDriver_initDriver	Lesson6/Exercise6_3/tempDriver.c	/^void temperatureDriver_initDriver(uint8_t port) {$/;"	f
+temperature_create	Assignment 1/Exercise6_3/temperature.c	/^temp_t temperature_create(uint8_t portNo)$/;"	f
+temperature_create	Lesson5/Exercise1/temperature.c	/^void temperature_create(uint8_t portNo){$/;"	f
+temperature_create	Lesson6/Exercise6_3/temperature.c	/^temp_t temperature_create(uint8_t portNo)$/;"	f
+temperature_getTemperature	Assignment 1/Exercise6_3/temperature.c	/^float temperature_getTemperature(temp_t self)$/;"	f
+temperature_getTemperature	Lesson5/Exercise1/temperature.c	/^float temperature_getTemperature(void){$/;"	f
+temperature_getTemperature	Lesson6/Exercise6_3/temperature.c	/^float temperature_getTemperature(temp_t self)$/;"	f
+temperature_meassure	Assignment 1/Exercise6_3/temperature.c	/^void temperature_meassure(temp_t self)$/;"	f
+temperature_meassure	Lesson6/Exercise6_3/temperature.c	/^void temperature_meassure(temp_t self)$/;"	f
+temperature_measure	Lesson5/Exercise1/temperature.c	/^void temperature_measure(void){$/;"	f
+temperature_metricUnits	Assignment 1/Exercise6_3/main.c	/^bool temperature_metricUnits = true; \/\/ Definition$/;"	v
+temperature_metricUnits	Assignment 1/Exercise6_3/temperature.c	/^	bool temperature_metricUnits;$/;"	m	struct:temp	file:
+temperature_metricUnits	Lesson5/Exercise1/main.c	/^bool temperature_metricUnits = true;$/;"	v
+temperature_metricUnits	Lesson6/Exercise6_3/main.c	/^bool temperature_metricUnits = true; \/\/ Definition$/;"	v
+temperature_metricUnits	Lesson6/Exercise6_3/temperature.c	/^	bool temperature_metricUnits;$/;"	m	struct:temp	file:
